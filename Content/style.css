@@ -1,0 +1,15 @@
+h1 {color: LavenderBlush1; font-family: Times New Roman;}
+h2 {color: CadetBlue;}
+label {font-size: 20px;}
+input {background-color: Pink1;}
+textarea {background-color: ivory;}
+
+
+a.button {
+    padding: 1px 6px;
+    border: 1px outset buttonborder;
+    border-radius: 3px;
+    color: buttontext;
+    background-color: buttonface;
+    text-decoration: none;
+}
