@@ -1,6 +1,6 @@
 .header 
 {
-  background-color: SkyBlue;
+  background-color: # 87CEEB;
   color: red;
   text-align: center;
   padding: 50;
@@ -10,11 +10,11 @@
   float: left;
   display: block;
 }
-h1 {color: LavenderBlush1; font-family: Times New Roman;}
-h2 {color: CadetBlue;}
+h1 {color: # FFF0F5; font-family: Times New Roman;}
+h2 {color: # 5F9EA0;}
 label {font-size: 20px;}
-input {background-color: Pink1;}
-textarea {background-color: ivory;}
+input {background-color: # FFB5C5;}
+textarea {background-color: # FFFFF0;}
 
 
 a.button {
